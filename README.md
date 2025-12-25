@@ -13,13 +13,6 @@ My primary interests lie in **Machine Learning**, **Data Structures & Algorithms
 
 ---
 
-### 📚 Currently Learning
-- Machine Learning fundamentals & implementations  
-- Advanced DSA and competitive programming techniques  
-- Quantum mechanics concepts relevant to computation  
-
----
-
 ### 🛠️ Tech Stack
 - **Languages:** C++, Python  
 - **Libraries & Tools:** NumPy, PyTorch (learning), Git, Linux  
