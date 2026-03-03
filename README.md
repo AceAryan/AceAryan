@@ -12,18 +12,4 @@ My primary interests lie in **Machine Learning** and **Data Structures & Algorit
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** C++, Python  
-- **Libraries & Tools:** NumPy, PyTorch (learning), Git, Linux  
-- **Core Skills:** Algorithms, Mathematical reasoning, Problem solving  
-
----
-
-### 🎯 Goals
-- Build a strong theoretical + practical CS foundation  
-- Develop ML-focused projects with depth  
-- Prepare for research-oriented and academic internships  
-
----
-
 > *“Strong fundamentals compound.”*
