@@ -1,14 +1,14 @@
 ## Hello there 👋
 
-I’m **Aryan Kumar**, a Computer Science undergraduate at **IIT Gandhinagar, India** 🇮🇳  
+I’m **Aryan Kumar**, a Computer Science undergraduate at **IIT Gandhinagar, India** 🇮🇳
 
-My primary interests lie in **Machine Learning** and **Data Structures & Algorithms**. I enjoy working at the intersection of **mathematical reasoning and implementation**, and I focus on building a strong conceptual foundation alongside practical coding skills.
+I enjoy understanding how things work beneath the surface — from **learning algorithms and optimization methods** to designing efficient solutions for computational problems. I like combining mathematical intuition with implementation, and turning concepts into things that actually work.
 
----
+### 🔍 What I Work On
 
-### 🔍 Areas of Interest
-- Machine Learning (theory, classical models, optimization)
-- Data Structures & Algorithms (problem-solving, complexity, correctness)
+* **Machine Learning** — classical ML, optimization, representation learning, and recommendation systems
+* **Algorithms & Problem Solving** — data structures, dynamic programming, graph algorithms, and algorithmic problem-solving
+* **Systems & Development** — experimenting with software, low-level concepts, and projects that bridge theory with practical engineering
 
 ---
 
